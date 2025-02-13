@@ -8,8 +8,8 @@ Using Gabz Paid MLO for Up n Atom you can find it here: https://fivem.gabzv.com/
 # SIMPLE AND EAZY SETUP!
 Drag bd-upnatoms into your resources folder and ensure bd-upnatoms AFTER YOUR TARGET AND INVENTORY SCRIPTS
 Example:
- ensure [qb]
- ensure bd-upnatoms
+- ensure [qb]
+- ensure bd-upnatoms
 END OF EXAMPLE:
 # QBCORE SETUP
 # Items
