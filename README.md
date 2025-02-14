@@ -5,6 +5,8 @@
  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # MLO
 Using Gabz Paid MLO for Up n Atom you can find it here: https://fivem.gabzv.com/package/5567767
+# SHOWCASE VIDEO
+- https://youtu.be/GMriD0lcrMk
 # SIMPLE AND EAZY SETUP!
 Drag bd-upnatoms into your resources folder and ensure bd-upnatoms AFTER YOUR TARGET AND INVENTORY SCRIPTS
 Example:
