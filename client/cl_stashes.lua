@@ -193,7 +193,6 @@ elseif Config.TargetSystem == 'qb' then
                 event = "bd-upnatoms:client:openFrontTray1",
                 icon = "fa-solid fa-equals",
                 label = "Food Tray",
-                job = Config.Jobname
             },
         },
         distance = 1.5
@@ -211,7 +210,6 @@ elseif Config.TargetSystem == 'qb' then
                 event = "bd-upnatoms:client:openFrontTray2",
                 icon = "fa-solid fa-equals",
                 label = "Food Tray",
-                job = Config.Jobname
             },
         },
         distance = 1.5
@@ -229,7 +227,6 @@ elseif Config.TargetSystem == 'qb' then
                 event = "bd-upnatoms:client:openFrontTray3",
                 icon = "fa-solid fa-equals",
                 label = "Food Tray",
-                job = Config.Jobname
             },
         },
         distance = 1.5
@@ -247,7 +244,6 @@ elseif Config.TargetSystem == 'qb' then
                 event = "bd-upnatoms:client:openFrontTray4",
                 icon = "fa-solid fa-equals",
                 label = "Food Tray",
-                job = Config.Jobname
             },
         },
         distance = 1.5
