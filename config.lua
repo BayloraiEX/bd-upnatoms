@@ -12,7 +12,7 @@
 --]]
 Config = {}
 ----- | SYSTEM STUFF | -----
-Config.TargetSystem = 'qb' -- Supports 'qb' & 'ox'
+Config.TargetSystem = 'qb' -- Supports 'qb' & 'ox' & 'codem'
 Config.InventorySystem = 'qb' -- Supports 'qb' & 'ox'
 Config.Jobname = 'upnatoms' -- Match jobname in jobs.lua
 ----- | VEHICLE STUFF | -----
